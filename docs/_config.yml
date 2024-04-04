@@ -3,5 +3,6 @@ title: ClimAHealth
 #theme: jekyll-theme-merlot
 #theme: jekyll-theme-dinky
 remote_theme: pages-themes/dinky@v0.2.0
+  #https://github.com/pages-themes/dinky
 plugins:
 - jekyll-remote-theme
