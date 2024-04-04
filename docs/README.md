@@ -23,4 +23,4 @@ In a preliminary analysis with one population, we have modeled the probability o
 
 
 ## Funding
-This project is funded by the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie actions (grant agreement number 101030971).
+This project is funded by the European Union’s Horizon 2020 research and innovation programme (Marie Skłodowska-Curie actions; grant agreement number 101030971).
