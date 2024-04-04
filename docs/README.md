@@ -29,4 +29,4 @@ The heterogeneity of the human genome has greatly complicated the search for rec
 
 
 ## Funding
-This project is funded by the European Union’s Horizon 2020 research and innovation programme (Marie Skłodowska-Curie Actions; grant agreement number 101030971).
+This project is funded by the European Union’s Horizon 2020 research and innovation programme (Marie Skłodowska-Curie Actions; grant agreement number [101030971](https://cordis.europa.eu/project/id/101030971)).
