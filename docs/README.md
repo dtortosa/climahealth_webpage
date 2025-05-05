@@ -20,7 +20,7 @@ The main scripts used to perform these analyses can be found in the following li
 - Defintion and validation of the BAT connectome ([link](https://github.com/dtortosa/bat_connectome)).
 - Mixture Density Regression to model iHS ([link](https://github.com/dtortosa/Mixture_Density_Regression_pipeline)).
 - Modeling framework to compare a battery of algorithms and select the best to model iHS across 26 human populations ([link](https://github.com/dtortosa/ancient_selection_dating_heavy)).
-- Association between PTPN1 genetic variants and obesity-related traits ([link](https://github.com/dtortosa/bat_connectome)).
+- Association between PTPN1 genetic variants and obesity-related traits ([link](https://github.com/dtortosa/helena_7_ptpn1)).
 
 ## Progress beyond the state of the art
 ClimAHealth is advancing the analysis of adaptation signals beyond the state of the art. Previous work in this field has relied on classical correlation and regression approaches, which do not align well with the distribution of adaptation statistics. Leveraging a novel modeling framework, we analyze complex adaptation statistics, considering the impact of multiple factors on the probability of adaptation.
