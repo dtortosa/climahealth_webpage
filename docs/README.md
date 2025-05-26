@@ -35,6 +35,6 @@ In this project, we have developed and applied novel machine learning approaches
 
 
 ## Funding
-This project is funded by the European Union’s Horizon 2020 research and innovation programme (Marie Skłodowska-Curie Actions; grant agreement number [101030971](https://cordis.europa.eu/project/id/101030971)). This projects only reflects only the author's view and the Agency and the Commission are not responsible for any use that may be made of the information it contains. 
+This project is funded by the European Union’s Horizon 2020 research and innovation programme (Marie Skłodowska-Curie Actions; grant agreement number [101030971](https://cordis.europa.eu/project/id/101030971)). This projects only reflects the author's view and the Agency and the Commission are not responsible for any use that may be made of the information it contains. 
 
 ![figure_1](assets/images/logo_eu.jpg)
